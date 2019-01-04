@@ -2,4 +2,4 @@
 
 This repo is used to test our Github App integration
 
-github pr
+test with pr only
