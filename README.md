@@ -2,5 +2,4 @@
 
 This repo is used to test our Github App integration
 
-Team demo
-update
+environment var test
